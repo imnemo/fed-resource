@@ -22,6 +22,7 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
 
 ## Tools, newest or usefull
 1. [Eager: Improve your website for free with plugins, you can install in seconds.][tool-eager]
+  * 安装APP的方式给你的站点安装插件，有创意
 
 
 
