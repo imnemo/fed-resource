@@ -19,6 +19,12 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
 1. video
   * [VideoJS: The open source HTML5 video player][mm-videojs]
     + 可视化定制UI，可编程，可直接嵌入
+ 
+## Optimized for bootstrap
+1. paginator
+  * [This jQuery plugin simplifies the usage of Bootstrap Pagintion][twbs-pagination]
+    + 源码简洁，但是有些地方还可以优化，比如事件处理方式
+    + 配置灵活，方便定制UI
 
 ## Tools, newest or usefull
 1. [Eager: Improve your website for free with plugins, you can install in seconds.][tool-eager]
@@ -31,6 +37,8 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
 [tool-eager]: https://eager.io/
 
 [ee-pace]: http://github.hubspot.com/pace/docs/welcome/
+
+[twbs-pagination]: https://github.com/esimakin/twbs-pagination
 
 [mm-cropper]: https://github.com/fengyuanchen/cropper
 [mm-jplayer]: http://jplayer.org/
