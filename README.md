@@ -22,7 +22,7 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
  
 ## Optimized for bootstrap
 1. paginator
-  * [This jQuery plugin simplifies the usage of Bootstrap Pagintion][twbs-pagination]
+  * [twbs-pagination: This jQuery plugin simplifies the usage of Bootstrap Pagintion][twbs-pagination]
     + 源码简洁，但是有些地方还可以优化，比如事件处理方式
     + 配置灵活，方便定制UI
 
