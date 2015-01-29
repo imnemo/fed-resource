@@ -25,6 +25,13 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
   * [twbs-pagination: This jQuery plugin simplifies the usage of Bootstrap Pagintion][twbs-pagination]
     + 源码简洁，但是有些地方还可以优化，比如事件处理方式
     + 配置灵活，方便定制UI
+ 
+## form handle
+1. validation
+  * [Best jQuery plugin to validate form fields Designed for Bootstrap · Foundation · Pure · Semantic UI · UIKit][formvalidation]
+    + 适配性好
+    + 需要商业授权
+    + [github](https://github.com/formvalidation/)
 
 ## Tools, newest or usefull
 1. [Eager: Improve your website for free with plugins, you can install in seconds.][tool-eager]
@@ -39,6 +46,8 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
 [ee-pace]: http://github.hubspot.com/pace/docs/welcome/
 
 [twbs-pagination]: https://github.com/esimakin/twbs-pagination
+
+[formvalidation]: http://formvalidation.io/
 
 [mm-cropper]: https://github.com/fengyuanchen/cropper
 [mm-jplayer]: http://jplayer.org/
