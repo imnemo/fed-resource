@@ -1,6 +1,12 @@
 # fed-resource
 Awesome web frontend resources, tools, frameworks, libraries, components,  plugins and so on...
 
+## mobile web
+1. [Mobilebone][mobilebone]
+  * 单页切换骨架。适用于移动web APP, Hybird混合APP, Phonegap开发, 无兼容要求单页PC应用等。
+  * 扩展性好
+  * 考虑了地址栏URL同步
+
 ## effect enhanced
 1. [Pace: Automatic page load progress bar][ee-pace]
   * 直接甩到页面上即可用
@@ -40,6 +46,7 @@ Awesome web frontend resources, tools, frameworks, libraries, components,  plugi
 
 
 
+[mobilebone]: https://github.com/zhangxinxu/mobilebone
 
 [tool-eager]: https://eager.io/
 
